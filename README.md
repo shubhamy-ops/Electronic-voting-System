@@ -50,4 +50,4 @@ How to run
 3. Run it and follow the instructions on the screen
 Goal of the project
 
-To learn how simple systems like voting machines can be created using basic C language.
+To learn how simple systems like voting machines can be created using basic C language..
